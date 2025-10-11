@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on </title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jimmyomarh@gmail.com (Jimmy van der Heijden)</managingEditor>
+    <webMaster>jimmyomarh@gmail.com (Jimmy van der Heijden)</webMaster>
+    
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Horizon Zero Dawn Remastered</title>
+      <link>http://localhost:1313/portfolio/hzdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jimmyomarh@gmail.com (Jimmy van der Heijden)</author>
+      <guid>http://localhost:1313/portfolio/hzdr/</guid>
+      <description>Obsessing over details.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/hzdr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Horizon Forbidden West: Burning Shores</title>
+      <link>http://localhost:1313/portfolio/hfwbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jimmyomarh@gmail.com (Jimmy van der Heijden)</author>
+      <guid>http://localhost:1313/portfolio/hfwbs/</guid>
+      <description>Dipping my toes in AAA.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/hfwbs/featured.png" />
+    </item>
+    
+    <item>
+      <title>BMW</title>
+      <link>http://localhost:1313/portfolio/bmw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jimmyomarh@gmail.com (Jimmy van der Heijden)</author>
+      <guid>http://localhost:1313/portfolio/bmw/</guid>
+      <description>Industrial Sound Design in Munich.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/bmw/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
